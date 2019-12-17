@@ -1,0 +1,19 @@
+{
+  "name": "jsoncustom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainwind132/JSONCustomColor.git"
+  },
+  "author": "CZQ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rainwind132/JSONCustomColor/issues"
+  },
+  "homepage": "https://github.com/rainwind132/JSONCustomColor#readme"
+}
